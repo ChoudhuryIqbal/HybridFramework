@@ -28,5 +28,7 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/iqbal/workspace/hybrid-framework/src/main/java/lib/saxon-8.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/iqbal/workspace/hybrid-framework/src/main/java/lib/SaxonLiaison.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
